@@ -1,0 +1,37 @@
+/*html hight and position*/
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+/*added spacing to article*/
+.block {
+    padding: 30px;
+    margin-bottom: 30px;
+}
+.port-image {
+    margin: 20px auto;
+}
+
+/*determine how footer is going to look like */
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;   /* Height of the footer */
+ }
+ .text-muted-footer {
+     margin-top: 15px;
+ }
+
+ /*Contact.html*/
+.header1 {
+    font-family: 'Merriweather', serif;
+}
+
+.index-centerme {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
