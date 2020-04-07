@@ -29,9 +29,8 @@ html {
     font-family: 'Merriweather', serif;
 }
 
-.index-centerme {
+.centerme {
+    padding-bottom: 30px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
     width: 50%;
 }
