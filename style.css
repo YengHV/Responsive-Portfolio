@@ -34,3 +34,7 @@ html {
     display: block;
     width: 50%;
 }
+
+.pStyling {
+    padding-top: 10px;
+}
