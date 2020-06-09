@@ -1,3 +1,6 @@
+## Deployment
+- https://yenghv.github.io/Responsive-Portfolio/
+
 index.html
 - About me file
 - linked a photo of me and put in filler information. 
